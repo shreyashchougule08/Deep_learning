@@ -1,0 +1,2123 @@
+
+ 
+ # Modular Courses 
+==================================================
+# Apache Spark Mastery - Data Engineering With PySpark 
+ 
+--- Overview / Introduction about Apache Spark Mastery - Data Engineering With PySpark
+Course Name : Apache Spark Mastery - Data Engineering with PySpark
+Batch Schedule : 16-Aug-2025   To   17-Sep-2025
+To
+Schedule : Mon-Sat
+Duration : 50 hrs.
+Timings : 7:00 PM  To  9:00 PM
+To
+Fees : Rs. 14900/-(Inc.18% GST)
+
+--- Target Audience: for Apache Spark Mastery - Data Engineering With PySpark
+Data Engineers, Python Developers, Freshers
+
+--- Syllabus: for Apache Spark Mastery - Data Engineering With PySpark
+Section 1: Spark Architecture & Internals
+- Distributed Computing Fundamentals
+  - RDD lineage, DAG scheduler, lazy evaluation
+  - Cluster managers overview
+- Spark 4.x Updates
+  - Adaptive Query Execution (AQE) enhancements
+  - Catalyst optimizer improvements
+- Performance Tuning
+  - Joins
+  - Partitioning, broadcast variables
+  - Memory management
+Section 2: PySpark DataFrames & SQL
+- Data Manipulation
+  - Complex types (JSON, arrays, maps)
+  - Window functions, pivot tables, UDFs/Pandas UDFs
+- Spark SQL Deep Dive
+  - Temp views, catalog API, Hive metastore integration
+  - SQL syntax for Delta Lake operations
+- Execution Plans
+  - Reading `explain()` output
+  - Predicate pushdown, partition pruning
+Section 3: Incremental Data Processing & Apache Kafka
+- Structured Streaming
+  - Event-time processing, watermarking, state management
+  - Kafka integration (source/sink)
+- Delta Lake Essentials
+  - ACID transactions
+  - Schema evolution
+Section 4: Spark Optimizations
+- Catalyst Internals
+  - Logical vs. physical plans
+  - Custom optimization extensions
+- Performance Best Practices
+  - File formats (Parquet/Delta)
+  - Resource allocation (executors/cores)
+Section 5: Databricks Lakehouse Platform
+- Lakehouse fundamentals
+- Workspace Navigation
+  - DBFS, clusters, notebooks
+- Delta Lake UI
+  - Viewing table history/schema
+- Data Governance
+  - Unity Catalog basics (no Admin tasks)
+Section 6: Apache Kafka Fundamentals  
+- Architecture
+  - Brokers, topics, partitions, consumer groups
+- Spark-Kafka Integration
+  - Structured Streaming with Kafka
+  - Job execution
+Section 7: Spark ML Introduction
+- MLlib Workflow
+  - Transformers vs. estimators, pipelines
+  - Feature engineering (VectorAssembler, StringIndexer)
+- Model Training
+  - Regression demo (no hyperparameter tuning)
+Section 8: Capstone Project
+- Pipeline implementation
+- Domain Examples: IoT monitoring, retail analytics
+
+--- Prerequisites: for Apache Spark Mastery - Data Engineering With PySpark
+1. Python: Language Fundamentals, Functions, Collections, Pandas, ...
+2. SQL: CRUD Operations, Group By, Joins, Analytical queries, …
+3.Good to have: Linux basics, Hadoop/Hive knowledge beneficial
+
+--- Tools & Setup: for Apache Spark Mastery - Data Engineering With PySpark
+- Local Installation: Spark 4.x, Java 11, Python 3.10  
+- Cloud: Databricks Community/Free Edition
+
+--- Outcome: for Apache Spark Mastery - Data Engineering With PySpark
+• Master PySpark DataFrames/SQL for batch & stream processing for Apache Spark Mastery - Data Engineering With PySpark
+• Build optimized pipelines using Catalyst insights for Apache Spark Mastery - Data Engineering With PySpark
+• Understand Spark job execution internals for Apache Spark Mastery - Data Engineering With PySpark
+• Understand Apache Kafka and Integrate with Spark for Apache Spark Mastery - Data Engineering With PySpark
+• Hands-on implementation of capstone project for Apache Spark Mastery - Data Engineering With PySpark
+• Certification-ready skills for Apache Spark Mastery - Data Engineering With PySpark
+
+--- Important Notes: for Apache Spark Mastery - Data Engineering With PySpark
+1. Developer-Centric Focus:
+- Covers PySpark application development (coding, debugging, optimization).
+- Excludes: Cluster administration, infrastructure setup (YARN/K8s), or Spark cluster tuning.
+2. Machine Learning Scope:
+- Only introductory-level Spark ML (pipeline structure, basic concept).
+- Excludes: Advanced ML concepts (hyperparameter tuning, etc), DL frameworks, or MLOps.
+3. Language & Environment:
+- PySpark (Python API) only – Scala/Java/R APIs not covered.
+- Databricks usage focuses on developer work, not account/admin management.
+4. Kafka Integration:
+- Covers Spark-as-Consumer/Producer – not professional Kafka cluster setup, security, or Streams API.
+5. Infrastructure Assumptions:
+- All labs use local/standalone mode or Databricks Community Edition.
+
+--- Video Availability till date: for Apache Spark Mastery - Data Engineering With PySpark
+17th Nov 25
+
+--- Batch schedule for Apache Spark Mastery - Data Engineering With PySpark
+Columns for Apache Spark Mastery - Data Engineering With PySpark: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Apache Spark Mastery - Data Engineering With PySpark: ['1', 'Spark-O-04', '16-Aug-2025', '17-Sep-2025', '7:00 PM  To  9:00 PM']
+Schedule : Mon-Sat
+==================================================
+# Aptitude 
+ 
+--- Overview / Introduction about Aptitude
+Course Name : Aptitude  
+Batch Schedule : 02-Feb-2026   To   23-Feb-2026
+To
+Schedule : Mon - Fri
+Duration : 30 hrs.
+Timings : 5:00 PM  To  7:00 PM
+To
+Fees : Rs. 4000/- 3400 Early Bird Offer
+
+--- Target Audience: for Aptitude
+• Students for Aptitude
+• Fresher's for Aptitude
+
+--- Course Contents: for Aptitude
+• English -  (nouns,pronouns,verbs,adjectives,adverbs,prepositions,conjuction,articles,Tenses, Voice,Direct Indirect Speech, Idioms, Synonyms & Antonyms, Reading Comprehension ) for Aptitude
+• Reasoning - (Analogy, Coding and Decoding, Syllogism, Blood Relations, Seating Arrangements, Puzzles, Directions, Data Sufficiency, Numerical Series, Ranking & Ordering) for Aptitude
+• Quantitative - (Number System, Percentage, Profit and Loss, Ratio & Proportion, Partnership, Average, Ages, Mixture & Alligation, Simple Interest & Compound Interest, cyclicity and remainder, Time Speed & Distance, Trains Boats & Streams, Time & Work, Wages (man Days), Pipes & Cisterns, Permutations & Combinations, Probability, Problems on Ages, Surds And Indices) for Aptitude
+• Test Series for Aptitude
+
+--- Recorded Videos: for Aptitude
+Recorded videos will be accessible for up to 7 Days from the date of upload.
+
+--- Batch schedule for Aptitude
+Columns for Aptitude: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Aptitude: ['1', 'Aptitude-O-02', '02-Feb-2026', '23-Feb-2026', '5:00 PM  To  7:00 PM']
+Schedule : Mon - Fri
+==================================================
+# C++ 
+ 
+--- Overview / Introduction about C++
+Course Name : C++
+Batch Schedule : 23-Jan-2026   To   20-Feb-2026
+To
+Schedule : Weekdays - (Mon-Fri)
+Duration : 60 Hrs
+Timings : 5:00 PM  To  8:00 PM
+To
+Fees : Rs. 7000/- 5900 Early Bird Offer
+
+--- Target Audience: for C++
+• Students for C++
+• Fresher's for C++
+• Working professionals  for C++
+
+--- Pre-requisites: for C++
+• C Programming for C++
+
+--- Syllabus: for C++
+• C++ Introduction for C++
+• Namespace for C++
+• C++ Language Features for C++
+• Exception Handling for C++
+• OOPS Concepts for C++
+• Dynamic Memory Allocation, Destructor & Copy Constructor for C++
+• Friend Function & Operator Overloading for C++
+• How To Share Data Between Objects for C++
+• Inheritance & Polymorphism for C++
+• Virtual Function, Abstract Class & Interface for C++
+• STL for C++
+• FILE I/O for C++
+
+--- Batch schedule for C++
+Columns for C++: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for C++: ['1', 'CPP- O-07', '23-Jan-2026', '20-Feb-2026', '5:00 PM  To  8:00 PM']
+Schedule : Weekdays - (Mon-Fri)
+==================================================
+# Core Java 
+ 
+--- Overview / Introduction about Core Java
+Course Name : Core Java
+Batch Schedule : 23-Jan-2026   To   20-Feb-2026
+To
+Schedule : Weekdays - (Mon-Fri)
+Duration : 80 Hrs
+Timings : 9:00 AM  To  1:00 PM
+To
+Fees : Rs. 8000/- 6800 Early Bird Offer
+
+--- Target Audience: for Core Java
+• Students for Core Java
+• Fresher's for Core Java
+• Working professionals  for Core Java
+
+--- Syllabus: for Core Java
+• Java Language Fundamentals
+Java language features
+Overview of JDK, JRE and JVM
+Data types and wrapper classes
+Package, path and classpath
+Arrays, Enum, jar file for Core Java
+• Java language features for Core Java
+• Overview of JDK, JRE and JVM for Core Java
+• Data types and wrapper classes for Core Java
+• Package, path and classpath for Core Java
+• Arrays, Enum, jar file for Core Java
+• OOPs Concept
+Class, reference, instance
+Constructor chaining
+Object class
+Static initializer block
+Association and inheritance
+Polymorphism and dynamic method dispatch
+Abstract class and Interface for Core Java
+• Class, reference, instance for Core Java
+• Constructor chaining for Core Java
+• Object class for Core Java
+• Static initializer block for Core Java
+• Association and inheritance for Core Java
+• Polymorphism and dynamic method dispatch for Core Java
+• Abstract class and Interface for Core Java
+• Exception Handling
+Error and exception
+Checked and unchecked Exception
+Try-with-resource
+Multi-catch block
+Custom exception
+Chained exceptions for Core Java
+• Error and exception for Core Java
+• Checked and unchecked Exception for Core Java
+• Try-with-resource for Core Java
+• Multi-catch block for Core Java
+• Custom exception for Core Java
+• Chained exceptions for Core Java
+• Functional Programming Fundamentals
+Nested and local class
+Anonymous inner class
+Functional interface
+Lambda expression
+Method and constructor references
+Constructor Reference for Core Java
+• Nested and local class for Core Java
+• Anonymous inner class for Core Java
+• Functional interface for Core Java
+• Lambda expression for Core Java
+• Method and constructor references for Core Java
+• Constructor Reference for Core Java
+• Generics
+Boxing/Auto-Boxing and Unboxing/Auto-Unboxing
+Parameterized type
+Bounded type parameter
+Wild Card and its type
+Generic method for Core Java
+• Boxing/Auto-Boxing and Unboxing/Auto-Unboxing for Core Java
+• Parameterized type for Core Java
+• Bounded type parameter for Core Java
+• Wild Card and its type for Core Java
+• Generic method for Core Java
+• String Handling
+ Overview of UNICODE
+String, StringBuffer and StringBuilder
+StringTokenizer
+Regular expression for Core Java
+•  Overview of UNICODE for Core Java
+• String, StringBuffer and StringBuilder for Core Java
+• StringTokenizer for Core Java
+• Regular expression for Core Java
+• Collection Framework
+Comparable versus Comparator
+List, ArrayList, Vector
+Set, TreeSet
+Hashing
+HashSet, Hashtable and HashMap
+Java 8 Streams for Core Java
+• Comparable versus Comparator for Core Java
+• List, ArrayList, Vector for Core Java
+• Set, TreeSet for Core Java
+• Hashing for Core Java
+• HashSet, Hashtable and HashMap for Core Java
+• Java 8 Streams for Core Java
+• Multithreading
+ Advantages & issues of process & thread
+Thread class and Runnable
+Thread States, life cycle
+Race condition, deadlock, monitor
+Synchronization and Object class for Core Java
+•  Advantages & issues of process & thread for Core Java
+• Thread class and Runnable for Core Java
+• Thread States, life cycle for Core Java
+• Race condition, deadlock, monitor for Core Java
+• Synchronization and Object class for Core Java
+• File IO 
+Path basics
+Text file and binary file processing
+Serialization and deserialization
+SerialVersionUID for Core Java
+• Path basics for Core Java
+• Text file and binary file processing for Core Java
+• Serialization and deserialization for Core Java
+• SerialVersionUID for Core Java
+• Reflection
+Metadata and its application
+java.lang.Class class
+Overview of reflection classes and interfaces
+Dynamic method invocation for Core Java
+• Metadata and its application for Core Java
+• java.lang.Class class for Core Java
+• Overview of reflection classes and interfaces for Core Java
+• Dynamic method invocation for Core Java
+
+--- Pre-requisites: for Core Java
+• OOP concepts: Class, Object, overloading, constructor, inheritance and virtual function. for Core Java
+
+--- Software Setup: for Core Java
+• SDK: Open JDK 1.8 for Core Java
+• Editor: MS VS Code for Core Java
+• IDE: Eclipse for Core Java
+
+--- Student Feedback: for Core Java
+Rohan Parmane: Your dedication and passion for teaching truly shine through in every lesson. Your ability to engage students and make complex concepts understandable is impressive. The positive environment you create in the classroom fosters both learning and growth. Keep up the excellent work Your thoughtful approach and dedication are greatly appreciated by me.
+Ketan Kore: I've had the pleasure of learning Core Java under the tutelage of Sir, and I must say that he's the best mentor I've had. Their thorough understanding of Java fundamentals, combined with their ability to present complex topics in a straight forward and understandable manner, has been quite helpful in my learning process.
+Ketan Kore: Your explanations are always clear and well-structured, which helps grasp difficult concepts more easily.Nice teaching, best interaction with us, great at doubt solving.
+Rohan Parmane: excellent I will miss Sunbeam Teaching. Sir taught us very well. we got so much knowledge about java in just a little time. sir explained each concept very easily and understandably. Thank you sir for your valuable guidance.
+
+--- Recorded Videos: for Core Java
+Recorded videos will be accessible for up to 7 Days from the date of upload.
+
+--- Batch schedule for Core Java
+Columns for Core Java: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Core Java: ['1', 'CJ-O-17', '23-Jan-2026', '20-Feb-2026', '9:00 AM  To  1:00 PM']
+Schedule : Weekdays - (Mon-Fri)
+==================================================
+# Data Structures And Algorithms 
+ 
+--- Overview / Introduction about Data Structures And Algorithms
+Course Name : Data Structures and Algorithms
+Batch Schedule : 29-Jan-2026   To   20-Feb-2026
+To
+Schedule : Weekdays - (Mon-Sat)
+Duration : 60 HRS
+Timings : 5:00 PM  To  8:00 PM
+To
+Fees : Rs. 7000/- 5900 Early Bird Offer
+
+--- Target Audience: for Data Structures And Algorithms
+• Students for Data Structures And Algorithms
+• Fresher's for Data Structures And Algorithms
+• Working professionals for Data Structures And Algorithms
+
+--- Syllabus: for Data Structures And Algorithms
+• Algorithm Analysis:
+Time complexity
+Space complexity for Data Structures And Algorithms
+• Time complexity for Data Structures And Algorithms
+• Space complexity for Data Structures And Algorithms
+• Linked List:
+Array advantages and disadvantages
+Linked List concept
+Linear Singly Linked List
+Circular Singly Linked List
+Linear and Circular Doubly Linked List
+Complexity analysis of Linked List operations for Data Structures And Algorithms
+• Array advantages and disadvantages for Data Structures And Algorithms
+• Linked List concept for Data Structures And Algorithms
+• Linear Singly Linked List for Data Structures And Algorithms
+• Circular Singly Linked List for Data Structures And Algorithms
+• Linear and Circular Doubly Linked List for Data Structures And Algorithms
+• Complexity analysis of Linked List operations for Data Structures And Algorithms
+• Stack:
+Stack concept
+Stack using Array
+Stack using Linked List
+Expresion conversion & evaluation (prefix, infix and postfix)
+Parenthesis balancing
+Complexity analysis of Stack operations for Data Structures And Algorithms
+• Stack concept for Data Structures And Algorithms
+• Stack using Array for Data Structures And Algorithms
+• Stack using Linked List for Data Structures And Algorithms
+• Expresion conversion & evaluation (prefix, infix and postfix) for Data Structures And Algorithms
+• Parenthesis balancing for Data Structures And Algorithms
+• Complexity analysis of Stack operations for Data Structures And Algorithms
+• Queue:
+Queue concept & types
+Queue using Array
+Queue using Linked List
+Complexity analysis of Queue operations for Data Structures And Algorithms
+• Queue concept & types for Data Structures And Algorithms
+• Queue using Array for Data Structures And Algorithms
+• Queue using Linked List for Data Structures And Algorithms
+• Complexity analysis of Queue operations for Data Structures And Algorithms
+• Sorting:
+Selection sort
+Bubble sort
+Insertion sort
+Quick sort
+Merge sort
+Heap sort
+Complexity analysis of sorting algorithms for Data Structures And Algorithms
+• Selection sort for Data Structures And Algorithms
+• Bubble sort for Data Structures And Algorithms
+• Insertion sort for Data Structures And Algorithms
+• Quick sort for Data Structures And Algorithms
+• Merge sort for Data Structures And Algorithms
+• Heap sort for Data Structures And Algorithms
+• Complexity analysis of sorting algorithms for Data Structures And Algorithms
+• Searching:
+Linear Search
+Binary Search
+Hashing
+Complexity analysis of searching algorithms for Data Structures And Algorithms
+• Linear Search for Data Structures And Algorithms
+• Binary Search for Data Structures And Algorithms
+• Hashing for Data Structures And Algorithms
+• Complexity analysis of searching algorithms for Data Structures And Algorithms
+• Tree:
+Tree concept & types
+Tree traversal (Inorder, Preorder and Postorder)
+Binary Search Tree (BST) implementation
+BST: add node, travsersal, delete node, balancing, BFS & DFS.
+Complexity analysis of BST algorithms for Data Structures And Algorithms
+• Tree concept & types for Data Structures And Algorithms
+• Tree traversal (Inorder, Preorder and Postorder) for Data Structures And Algorithms
+• Binary Search Tree (BST) implementation for Data Structures And Algorithms
+• BST: add node, travsersal, delete node, balancing, BFS & DFS. for Data Structures And Algorithms
+• Complexity analysis of BST algorithms for Data Structures And Algorithms
+•  Graph:
+Graph concept & types
+Adjacency Matrix implementation
+Adjacency List implementation
+Spanning Tree algorithms: Prim’s MST, Kruskal’s MST
+Shortest Path algorithms: Dijkstra, Bellaman Ford, Warshal Floyd
+Search algorithms: BFS, DFS, A* search
+Complexity analysis of Graph algorithms for Data Structures And Algorithms
+• Graph concept & types for Data Structures And Algorithms
+• Adjacency Matrix implementation for Data Structures And Algorithms
+• Adjacency List implementation for Data Structures And Algorithms
+• Spanning Tree algorithms: Prim’s MST, Kruskal’s MST for Data Structures And Algorithms
+• Shortest Path algorithms: Dijkstra, Bellaman Ford, Warshal Floyd for Data Structures And Algorithms
+• Search algorithms: BFS, DFS, A* search for Data Structures And Algorithms
+• Complexity analysis of Graph algorithms for Data Structures And Algorithms
+
+--- Pre-requisites: for Data Structures And Algorithms
+• Java Programming: Class & Object, Generics, Java collections (Array list).  for Data Structures And Algorithms
+
+--- Outcome: for Data Structures And Algorithms
+• Understand common data structures (array, linked list, stack & queue) and their applications. for Data Structures And Algorithms
+• Learn advanced data structures (hashing, trees, heap & graphs) and their operations.  for Data Structures And Algorithms
+• Implement data structures and algorithms using Java. for Data Structures And Algorithms
+• Revise fundamentals for Data structure interviews. for Data Structures And Algorithms
+
+--- Software Setup: for Data Structures And Algorithms
+• Any IDE & compiler for Java for Data Structures And Algorithms
+• May use online editor for Data Structures And Algorithms
+
+--- Important Notes: for Data Structures And Algorithms
+• Code along with trainer in live class. for Data Structures And Algorithms
+• Assignments will be given for self practice. for Data Structures And Algorithms
+• Line by line implementation of data structures in Java. for Data Structures And Algorithms
+• Corresponding C++ & Python codes will be shared. for Data Structures And Algorithms
+• Discussion of frequently asked interview questions. for Data Structures And Algorithms
+
+--- Student Feedback: for Data Structures And Algorithms
+• Abhilash Kamble for Data Structures And Algorithms
+• Abhishek Verma for Data Structures And Algorithms
+• Ashish Mishra   for Data Structures And Algorithms
+• Aniket Katte for Data Structures And Algorithms
+• Tejas Jadhav for Data Structures And Algorithms
+• Shubham Pate for Data Structures And Algorithms
+• Bilal Pathan for Data Structures And Algorithms
+Excellent Teaching, concept clearance and doubt clearing. Thank you sir for taking this wonderful session. Before this session I have only theory knowledge but now I am comfortable in code and logic also.
+really enjoyed the approach of explaining DS. It was good. Cleared all the doubts which I have asked with no rush, maintained simplicity in teaching with each topics.
+I don’t owe my professional success to my destiny, courage, luck, belief, confidence or fortune. I owe it to a wonderful scholar like you. Nothing can come close to the inspirational presence of an instructor like you in a student’s journey. You have no idea how important a role you play in shaping my research development, maybe we did not meet a lot, but those little encouragement words means a lot to me. I really enjoyed all of the readings and found they were diverse and inclusive. I learned a lot. Thank you for allowing us space to not only have dialogue but be creative within our assignments as well. I really learned some useful tips and tricks for DATA STRUCTURE AND ALGORITHMS which will help me in "Competitive Programming" as well. Thank you for being so encouraging and doing everything you can to keep us motivated and supported throughout our program. Your knowledge and leadership provide us with a priceless model for our own careers. Your diligence and direction have inspired my inner confidence to climb like a Tiger until I reach the pinnacle of my ambitions. One of the best decisions I had a fantastic time by taking your course in such Lock-Down period due to the COVID Pandemic. Thank you for loving your job so much! You are an amazing teacher! 
+It was an amazing course as I imagined. Because of Nilesh sir's lecture, I got depth knowledge of data structure and I’m sure this is more than enough to build my upcoming career. Sunbeam provides the best facilities of video lectures too and because of this facility, I personally got many profits if I forgot any concept I goes through these lectures and it will help me to understand these concepts. The enthusiasm which sunbeam provides always gives us good fruit. Thank you Sunbeam.
+The way of your explanation is excellent. I have learned first time Data structure and Algorithms but never felt tough in understanding at any moment. All the contents of data structures and algorithms learned very well and easily. Thank you very much, sir.  
+First of all, thank you for sharing your precious knowledge in a very efficient manner because even if I'm from none IT background I understood all things expertly. I'm sure that it will be very helpful throughout my career. Thank you ðŸ˜Š 
+The best thing about the course is that this course is very punctual about timing and syllabus. None of the single point is not skipped. and in learning time there is a motivated environment. Nilesh sir's way of teaching is awesome now I am big fan of sir. As I am a last year student many of the concepts is not cleared but after this course, I have that confidence that I am really good in DSA. Thank you nilesh sir and Sunbeam Team......!!! 
+all sessions are very well explained, understood very well, it will surely help me in dac course as data structure is a part of syllabus, the way of teaching was interesting, i enjoyed learning during course. Thanks a lot. 
+Best approach to learn Ds is to learn through the basic and to learn basics is know basic .. the whole process by Nilesh sir made me understand Data structure in very simple way and to made an environment where we had an open discussion on of doubts without thinking whether to ask or not... Thanks a lot sir as beginner in data structure you have made me expert in ds what I need is now a paper work. So thanks a lot sir and thanks to vishal sir for helping me solve the basic problems.
+
+--- Getting Started with DS... for Data Structures And Algorithms
+
+--- Recorded Videos: for Data Structures And Algorithms
+Recorded videos will be accessible for up to 7 Days from the date of upload.
+
+--- Batch schedule for Data Structures And Algorithms
+Columns for Data Structures And Algorithms: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Data Structures And Algorithms: ['1', 'DSA-O-12', '29-Jan-2026', '20-Feb-2026', '5:00 PM  To  8:00 PM']
+Schedule : Weekdays - (Mon-Sat)
+==================================================
+# Dev Ops 
+ 
+--- Overview / Introduction about Dev Ops
+Course Name : Dev Ops
+Batch Schedule : 15-Sep-2025   To   20-Nov-2025
+To
+Schedule : Mon - Thu
+Duration : 80 Hrs
+Timings : 9:00 PM  To  11:00 PM
+To
+Fees : Rs. 11100/-
+
+--- Syllabus for Dev Ops
+• DevOps
+Introduction to DevOps
+SDLC and Agile fundamentals
+DevOps Lifecyle
+Introduction to the Tools used in DevOps Lifecyle for Dev Ops
+• Introduction to DevOps for Dev Ops
+• SDLC and Agile fundamentals for Dev Ops
+• DevOps Lifecyle for Dev Ops
+• Introduction to the Tools used in DevOps Lifecyle for Dev Ops
+• Linux
+Installation and configuration using VM
+Booting
+File System
+Working with Text files
+Archiving and compressing files
+User and Group management
+File Permissions
+Package management
+Systemd management for Dev Ops
+• Installation and configuration using VM for Dev Ops
+• Booting for Dev Ops
+• File System for Dev Ops
+• Working with Text files for Dev Ops
+• Archiving and compressing files for Dev Ops
+• User and Group management for Dev Ops
+• File Permissions for Dev Ops
+• Package management for Dev Ops
+• Systemd management for Dev Ops
+• Foundation of VCS for Dev Ops
+• What is Git? for Dev Ops
+• Git Workflow for Dev Ops
+• Git Internals for Dev Ops
+• Demystifying branching for Dev Ops
+• Collaboration with GitHub for Dev Ops
+• Virtualization for Dev Ops
+• Hardware virtualization vs Containerization for Dev Ops
+• Docker fundamentals for Dev Ops
+• Architecture for Dev Ops
+• Installation and configuration for Dev Ops
+• Image management for Dev Ops
+• Container management for Dev Ops
+• Docker network for Dev Ops
+• Persisting data with Docker volumes for Dev Ops
+• Container Orchestration with Docker Swarm for Dev Ops
+• Introducing Kubernetes and its features for Dev Ops
+• Architecture for Dev Ops
+• Installation of configuration of Kubernetes cluster for Dev Ops
+• Pod management for Dev Ops
+• Secrets and ConfigMaps for Dev Ops
+• Service and Networking for Dev Ops
+• State persistence with PersistentVolumes and PersistentVolumeClaims for Dev Ops
+• Observability for Dev Ops
+• Probes for Dev Ops
+• Introduction to CI/CD pipeline for Dev Ops
+• Jenkins cluster installation and configuration for Dev Ops
+• Configuration of pipeline for Dev Ops
+• Scripted pipeline for Dev Ops
+• Implementing security with Jenkins for Dev Ops
+• Setting up notifications for Dev Ops
+• Using Jenkinsfile for Dev Ops
+• Introduction to Cloud for Dev Ops
+• What is AWS? for Dev Ops
+• AWS Services
+Compute Services:
+EC2 instance
+VPC
+Lambda
+Storage Services: S3
+Database Services: RDS (MySQL)
+DevOps Services: CodeCommit, CodeBuild, CodeDeploy, X-Ray
+Container Services: ECS, EKS for Dev Ops
+• Compute Services:
+EC2 instance
+VPC
+Lambda for Dev Ops
+• EC2 instance for Dev Ops
+• VPC for Dev Ops
+• Lambda for Dev Ops
+• Storage Services: S3 for Dev Ops
+• Database Services: RDS (MySQL) for Dev Ops
+• DevOps Services: CodeCommit, CodeBuild, CodeDeploy, X-Ray for Dev Ops
+• Container Services: ECS, EKS for Dev Ops
+• Infrastructure as a Code for Dev Ops
+• Installation and Configuration for Dev Ops
+• Terraform foundation for Dev Ops
+• Workflow for Dev Ops
+• Terraform modules for Dev Ops
+• Implementing and maintaining states for Dev Ops
+• HCP Terraform for Dev Ops
+• Introduction to Ansible for Dev Ops
+• Pull vs Push method for Dev Ops
+• Installation and Configuration for Dev Ops
+• Architecture and Design of Ansible for Dev Ops
+• Diving into playbooks for Dev Ops
+• Using Ansible with cloud for Dev Ops
+• Using Ansible with containers for Dev Ops
+• Modules and plugins for Dev Ops
+Week 1: Linux
+Week 2: Git
+Week 3: Docker
+Week 4: Kubernetes
+Week 5: Jenkins
+Week 6: AWS
+Week 7: Terraform
+Week 8: Ansible
+
+--- Prerequisites for Dev Ops
+• Basic Linux administration for Dev Ops
+• Knowledge of any development stack for Dev Ops
+• Knowledge of testing tools like Selenium and JUnit for Dev Ops
+• Knowledge of build tools like Ant/Gradle/Maven for Dev Ops
+
+--- Diwali Vacation Break: for Dev Ops
+Diwali Holidays are scheduled from 17th October 2025 to 31st October 2025.
+
+--- Batch schedule for Dev Ops
+Columns for Dev Ops: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Dev Ops: ['1', 'Dev Ops-O-06', '15-Sep-2025', '20-Nov-2025', '9:00 PM  To  11:00 PM']
+Schedule : Mon - Thu
+==================================================
+# Dream LLM 
+ 
+--- Overview / Introduction about Dream LLM
+Course Name : Dream LLM
+Batch Schedule : 05-Jan-2026   To   09-Feb-2026
+To
+Schedule : Monday - Thursday
+Duration : 5 weeks
+Timings : 9:00 PM  To  11:00 PM
+To
+Fees : Rs. INR 20000/- 12000/-(Inc.18% GST)
+
+--- Prerequisite: for Dream LLM
+- Basic to intermediate Python programming (loops, functions, lists, dictionaries, basics of classes)
+- Basic understanding of ML concepts (what a model, training, and loss mean)
+- High-level math intuition: addition, subtraction, multiplication and division    
+- Familiarity with PyTorch or NumPy is helpful but not mandatory
+- A laptop with 8 GB RAM (GPU recommended but not required)
+- Curiosity and willingness to learn how LLMs work internally (not just use APIs)
+
+--- Syllabus: for Dream LLM
+• Introduction to LLM
+What is large language model?
+Types of LLM
+Applications of LLM
+Requirements of DreamLLM for Dream LLM
+• What is large language model? for Dream LLM
+• Types of LLM for Dream LLM
+• Applications of LLM for Dream LLM
+• Requirements of DreamLLM for Dream LLM
+• Mathematics and Pytorch required for LLM
+Vectors
+Matrices
+Tensors
+Linear Algebra
+All maths topics with Pytorch implementation for Dream LLM
+• Vectors for Dream LLM
+• Matrices for Dream LLM
+• Tensors for Dream LLM
+• Linear Algebra for Dream LLM
+• All maths topics with Pytorch implementation for Dream LLM
+• Introduction to Deep Learning
+Difference between ML and DL
+Neural network architecture
+Introduction to forward and backward propagation for Dream LLM
+• Difference between ML and DL for Dream LLM
+• Neural network architecture for Dream LLM
+• Introduction to forward and backward propagation for Dream LLM
+• Why should you build DreamLLM?
+Strategies of building LLM
+Fine tuning vs creating custom LLM
+Supervised (labelled) vs unsupervised (unlabelled) training custom LLM
+Architecture of DreamLLM for Dream LLM
+• Strategies of building LLM for Dream LLM
+• Fine tuning vs creating custom LLM for Dream LLM
+• Supervised (labelled) vs unsupervised (unlabelled) training custom LLM for Dream LLM
+• Architecture of DreamLLM for Dream LLM
+• Transformers
+Relationship between LLM and transformer
+Introduction to transformers
+Transformer architecture
+Types of transformers for Dream LLM
+• Relationship between LLM and transformer for Dream LLM
+• Introduction to transformers for Dream LLM
+• Transformer architecture for Dream LLM
+• Types of transformers for Dream LLM
+• Understanding data
+Data requirements to train DreamLLM
+Preprocessing the data
+Tokenization
+Custom tokenization
+Embeddings basics
+Byte pair encoding for Dream LLM
+• Data requirements to train DreamLLM for Dream LLM
+• Preprocessing the data for Dream LLM
+• Tokenization
+Custom tokenization
+Embeddings basics
+Byte pair encoding for Dream LLM
+• Custom tokenization for Dream LLM
+• Embeddings basics for Dream LLM
+• Byte pair encoding for Dream LLM
+• Processing data using sequence modelling
+Introduction to RNN (LSTM and GRU)
+Introduction and requirement of attention mechanism
+Implementing attention mechanism
+Self attention mechanism
+Single head
+Multi head for Dream LLM
+• Introduction to RNN (LSTM and GRU) for Dream LLM
+• Introduction and requirement of attention mechanism for Dream LLM
+• Implementing attention mechanism
+Self attention mechanism
+Single head
+Multi head for Dream LLM
+• Self attention mechanism for Dream LLM
+• Single head for Dream LLM
+• Multi head for Dream LLM
+• Creating LLM from scratch
+Deciding the layers, activation functions
+Implementing feed forward network
+Generating text using custom LLM for Dream LLM
+• Deciding the layers, activation functions for Dream LLM
+• Implementing feed forward network for Dream LLM
+• Generating text using custom LLM for Dream LLM
+• Fine tuning for further tasks
+Fine tuning the DreamLLM on labelled data
+Fine tuning the DreamLLM on unlabelled data
+Evaluation of DreamLLM for Dream LLM
+• Fine tuning the DreamLLM on labelled data for Dream LLM
+• Fine tuning the DreamLLM on unlabelled data for Dream LLM
+• Evaluation of DreamLLM for Dream LLM
+• Deploying the DreamLLM
+Use AWS cloud for deployment
+Automate the deployment using AWS DevOps tools for Dream LLM
+• Use AWS cloud for deployment for Dream LLM
+• Automate the deployment using AWS DevOps tools for Dream LLM
+
+--- Outcomes: for Dream LLM
+• Theoretical Understanding
+Deep knowledge of mathematical foundations (Linear Algebra, Probability & Statistics, Optimization).
+Understanding key concepts in Machine Learning and Deep Learning.
+In-depth knowledge of Transformer architectures, Attention Mechanisms, and their variants (GPT, BERT, T5). for Dream LLM
+• Deep knowledge of mathematical foundations (Linear Algebra, Probability & Statistics, Optimization). for Dream LLM
+• Understanding key concepts in Machine Learning and Deep Learning. for Dream LLM
+• In-depth knowledge of Transformer architectures, Attention Mechanisms, and their variants (GPT, BERT, T5). for Dream LLM
+• Practical Skills
+Proficiency in Python and the use of deep learning frameworks like TensorFlow and PyTorch.
+Ability to implement, train, and fine-tune advanced neural network models.
+Skills in data preprocessing, feature extraction, and handling large datasets. for Dream LLM
+• Proficiency in Python and the use of deep learning frameworks like TensorFlow and PyTorch. for Dream LLM
+• Ability to implement, train, and fine-tune advanced neural network models. for Dream LLM
+• Skills in data preprocessing, feature extraction, and handling large datasets. for Dream LLM
+• Evaluation and Deployment
+Knowledge of evaluation metrics for NLP models (BLEU, ROUGE).
+Techniques for deploying LLMs in production environments using APIs and containerization tools (Docker, Kubernetes). for Dream LLM
+• Knowledge of evaluation metrics for NLP models (BLEU, ROUGE). for Dream LLM
+• Techniques for deploying LLMs in production environments using APIs and containerization tools (Docker, Kubernetes). for Dream LLM
+• Professional Outcomes
+Job Readiness
+Enhanced employability in roles related to AI research, machine learning engineering, and NLP development.
+Ability to tackle complex problems in natural language processing and develop innovative solutions
+Research Capabilities - Skills to contribute to the field of AI and NLP through original research. - Understanding of current trends, challenges, and opportunities in LLM development. - Understanding of ethical considerations in AI and NLP, including bias mitigation, privacy, and data governance. - Commitment to developing AI solutions that are fair, transparent, and responsible. for Dream LLM
+• Job Readiness
+Enhanced employability in roles related to AI research, machine learning engineering, and NLP development.
+Ability to tackle complex problems in natural language processing and develop innovative solutions for Dream LLM
+• Enhanced employability in roles related to AI research, machine learning engineering, and NLP development. for Dream LLM
+• Ability to tackle complex problems in natural language processing and develop innovative solutions for Dream LLM
+• Research Capabilities - Skills to contribute to the field of AI and NLP through original research. - Understanding of current trends, challenges, and opportunities in LLM development. - Understanding of ethical considerations in AI and NLP, including bias mitigation, privacy, and data governance. - Commitment to developing AI solutions that are fair, transparent, and responsible. for Dream LLM
+Academic Outcomes
+
+--- Capstone project: for Dream LLM
+• Project Name: DreamLLM
+Objective: Develop a state-of-the-art Large Language Model (LLM) from scratch, focusing on innovation and advanced capabilities.
+Scope: The project aims to create an LLM with the ability to understand, generate, and interpret human language.
+Target Audience: Researchers, developers, and enthusiasts interested in advanced AI and NLP.
+Note: For the sake of time and infrastructure, the LLM will be trained on the limited data. (For the real version of it, you may want to go for huge data which will cost more.) for Dream LLM
+• Objective: Develop a state-of-the-art Large Language Model (LLM) from scratch, focusing on innovation and advanced capabilities. for Dream LLM
+• Scope: The project aims to create an LLM with the ability to understand, generate, and interpret human language. for Dream LLM
+• Target Audience: Researchers, developers, and enthusiasts interested in advanced AI and NLP. for Dream LLM
+• Note: For the sake of time and infrastructure, the LLM will be trained on the limited data. (For the real version of it, you may want to go for huge data which will cost more.) for Dream LLM
+• Technical Requirements
+Programming Language: Python (version 3.11)  Deep Learning Frameworks:PyTorch
+Software Tools:
+Jupyter Notebook
+Git for version control
+Docker for containerization (optional, depending on the participants)
+Kubernetes for deployment (optional, depending on scalability needs)
+Libraries and Tools:
+Numpy, Pandas (for data manipulation)
+NLTK or SpaCy (for text preprocessing)
+Matplotlib, Seaborn (for data visualization)
+Hardware Requirements:
+Own infrastructure
+High-performance GPU(s)
+Sufficient storage for large datasets
+Adequate RAM (minimum 32 GB)???????
+Google Colab with TPU or GPU support
+Runpod
+Functional Requirements
+Model Architecture:
+Transformer-based architecture with advanced attention mechanisms
+Support for different variants (e.g., GPT, BERT, T5)
+Pre-training and fine-tuning capabilities
+Data Handling:
+Data preprocessing pipeline (tokenization, embedding)
+Large dataset support (e.g., Wikipedia, Common Crawl)
+Training Process:
+Distributed training for scalability
+Hyperparameter tuning (learning rate, batch size, etc.)
+Evaluation Metrics:
+Language accuracy metrics (BLEU, ROUGE)
+Performance benchmarks (e.g., GLUE tasks)
+Inference and Deployment:
+API-based deployment (RESTful or gRPC)
+Real-time inference capabilities
+User Interface:
+Web-based interface for interacting with the model (optional) for Dream LLM
+• Programming Language: Python (version 3.11)  Deep Learning Frameworks:PyTorch for Dream LLM
+• Software Tools:
+Jupyter Notebook
+Git for version control
+Docker for containerization (optional, depending on the participants)
+Kubernetes for deployment (optional, depending on scalability needs) for Dream LLM
+• Jupyter Notebook for Dream LLM
+• Git for version control for Dream LLM
+• Docker for containerization (optional, depending on the participants) for Dream LLM
+• Kubernetes for deployment (optional, depending on scalability needs) for Dream LLM
+• Libraries and Tools:
+Numpy, Pandas (for data manipulation)
+NLTK or SpaCy (for text preprocessing)
+Matplotlib, Seaborn (for data visualization) for Dream LLM
+• Numpy, Pandas (for data manipulation) for Dream LLM
+• NLTK or SpaCy (for text preprocessing) for Dream LLM
+• Matplotlib, Seaborn (for data visualization) for Dream LLM
+• Hardware Requirements:
+Own infrastructure
+High-performance GPU(s)
+Sufficient storage for large datasets
+Adequate RAM (minimum 32 GB)???????
+Google Colab with TPU or GPU support
+Runpod for Dream LLM
+• Own infrastructure
+High-performance GPU(s)
+Sufficient storage for large datasets
+Adequate RAM (minimum 32 GB)??????? for Dream LLM
+• High-performance GPU(s) for Dream LLM
+• Sufficient storage for large datasets for Dream LLM
+• Adequate RAM (minimum 32 GB)??????? for Dream LLM
+• Google Colab with TPU or GPU support for Dream LLM
+• Runpod for Dream LLM
+• Functional Requirements
+Model Architecture:
+Transformer-based architecture with advanced attention mechanisms
+Support for different variants (e.g., GPT, BERT, T5)
+Pre-training and fine-tuning capabilities
+Data Handling:
+Data preprocessing pipeline (tokenization, embedding)
+Large dataset support (e.g., Wikipedia, Common Crawl)
+Training Process:
+Distributed training for scalability
+Hyperparameter tuning (learning rate, batch size, etc.)
+Evaluation Metrics:
+Language accuracy metrics (BLEU, ROUGE)
+Performance benchmarks (e.g., GLUE tasks)
+Inference and Deployment:
+API-based deployment (RESTful or gRPC)
+Real-time inference capabilities
+User Interface:
+Web-based interface for interacting with the model (optional) for Dream LLM
+• Model Architecture:
+Transformer-based architecture with advanced attention mechanisms
+Support for different variants (e.g., GPT, BERT, T5)
+Pre-training and fine-tuning capabilities for Dream LLM
+• Transformer-based architecture with advanced attention mechanisms for Dream LLM
+• Support for different variants (e.g., GPT, BERT, T5) for Dream LLM
+• Pre-training and fine-tuning capabilities for Dream LLM
+• Data Handling:
+Data preprocessing pipeline (tokenization, embedding)
+Large dataset support (e.g., Wikipedia, Common Crawl) for Dream LLM
+• Data preprocessing pipeline (tokenization, embedding) for Dream LLM
+• Large dataset support (e.g., Wikipedia, Common Crawl) for Dream LLM
+• Training Process:
+Distributed training for scalability
+Hyperparameter tuning (learning rate, batch size, etc.) for Dream LLM
+• Distributed training for scalability for Dream LLM
+• Hyperparameter tuning (learning rate, batch size, etc.) for Dream LLM
+• Evaluation Metrics:
+Language accuracy metrics (BLEU, ROUGE)
+Performance benchmarks (e.g., GLUE tasks) for Dream LLM
+• Language accuracy metrics (BLEU, ROUGE) for Dream LLM
+• Performance benchmarks (e.g., GLUE tasks) for Dream LLM
+• Inference and Deployment:
+API-based deployment (RESTful or gRPC)
+Real-time inference capabilities for Dream LLM
+• API-based deployment (RESTful or gRPC) for Dream LLM
+• Real-time inference capabilities for Dream LLM
+• User Interface:
+Web-based interface for interacting with the model (optional) for Dream LLM
+• Web-based interface for interacting with the model (optional) for Dream LLM
+Project Overview
+
+--- Video recording will be available till 05 June 2026 on portal for Dream LLM
+
+--- Dream LLM — Course Overview for Dream LLM
+
+--- Batch schedule for Dream LLM
+Columns for Dream LLM: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Dream LLM: ['1', 'DreamLLM-O-01', '05-Jan-2026', '09-Feb-2026', '9:00 PM  To  11:00 PM']
+Schedule : Monday - Thursday
+==================================================
+# Machine Learning 
+ 
+--- Overview / Introduction about Machine Learning
+Course Name : Machine Learning
+Batch Schedule : 26-Oct-2023   To   28-Nov-2023
+To
+Schedule : Weekdays - (Mon -Fri)
+Duration : 40 hrs.
+Timings : 07:30 AM  To  9:30 AM
+To
+Fees : Rs. 7500/- (Inc. 18% GST)
+
+--- Course Highlights for Machine Learning
+
+--- Target Audience: for Machine Learning
+• Students for Machine Learning
+• Fresher's for Machine Learning
+• Working Professionals for Machine Learning
+
+--- Syllabus: for Machine Learning
+• Introduction to Machine Learning
+Big picture of machine learning
+Why machine learning is needed?
+Types of machine learning
+Challenges of machine learning
+Creating machine learning pipeling
+End-to-end process for Machine Learning
+• Big picture of machine learning for Machine Learning
+• Why machine learning is needed? for Machine Learning
+• Types of machine learning for Machine Learning
+• Challenges of machine learning for Machine Learning
+• Creating machine learning pipeling for Machine Learning
+• End-to-end process for Machine Learning
+• Regression 
+Understanding statistical regression
+Performing regression with
+Simple linear regressison
+Multiple linear regression
+Support vector machine
+Evaluating models using RMSE, MSE, MAE etc for Machine Learning
+• Understanding statistical regression for Machine Learning
+• Performing regression with
+Simple linear regressison
+Multiple linear regression
+Support vector machine for Machine Learning
+• Simple linear regressison for Machine Learning
+• Multiple linear regression for Machine Learning
+• Support vector machine for Machine Learning
+• Evaluating models using RMSE, MSE, MAE etc for Machine Learning
+•  Classification
+Understanding need of classification
+Classification vs regression
+Performing classification with
+Logistic regression
+Support vector machine
+Decision trees
+K nearest neighbours
+Evaluating models using AuC and RoC etc for Machine Learning
+• Understanding need of classification for Machine Learning
+• Classification vs regression for Machine Learning
+• Performing classification with
+Logistic regression
+Support vector machine
+Decision trees
+K nearest neighbours for Machine Learning
+• Logistic regression for Machine Learning
+• Support vector machine for Machine Learning
+• Decision trees for Machine Learning
+• K nearest neighbours for Machine Learning
+• Evaluating models using AuC and RoC etc for Machine Learning
+• Ensemble Learning
+What is ensemble learning
+Need of ensemble learning
+Types of ensemble learning
+Bagging
+Random forest
+Boosting
+Gradient boosting
+Xgboost
+Stacking for Machine Learning
+• What is ensemble learning for Machine Learning
+• Need of ensemble learning for Machine Learning
+• Types of ensemble learning
+Bagging
+Random forest
+Boosting
+Gradient boosting
+Xgboost
+Stacking for Machine Learning
+• Bagging
+Random forest for Machine Learning
+• Random forest for Machine Learning
+• Boosting
+Gradient boosting
+Xgboost for Machine Learning
+• Gradient boosting for Machine Learning
+• Xgboost for Machine Learning
+• Stacking for Machine Learning
+• Clustering
+Why clustering is needed?
+Performing clustering using
+Hierarchical clustering
+K meaning clustering for Machine Learning
+• Why clustering is needed? for Machine Learning
+• Performing clustering using
+Hierarchical clustering
+K meaning clustering for Machine Learning
+• Hierarchical clustering for Machine Learning
+• K meaning clustering for Machine Learning
+• Association Rule Mining
+Where association rule mining is needed
+Performing association rule mining using
+Apriori for Machine Learning
+• Where association rule mining is needed for Machine Learning
+• Performing association rule mining using
+Apriori for Machine Learning
+• Apriori for Machine Learning
+• Dimensionality Reduction
+Introduction to feature extraction
+What is dimensionality reduction?
+Performing dimensionality reduction using
+PCA for Machine Learning
+• Introduction to feature extraction for Machine Learning
+• What is dimensionality reduction? for Machine Learning
+• Performing dimensionality reduction using
+PCA for Machine Learning
+• PCA for Machine Learning
+• Introdution to Deep Learning
+What is deep learning?
+Introduction to artificial networking
+Introduction to TensorFlow and Keras
+Introduction MLPs with Keras for Machine Learning
+• What is deep learning? for Machine Learning
+• Introduction to artificial networking for Machine Learning
+• Introduction to TensorFlow and Keras for Machine Learning
+• Introduction MLPs with Keras for Machine Learning
+• Convolutional Neural Network
+Deep computer vision using CNN
+Introduction to images and convolutions
+CNN architecture
+Image classification using CNN
+Object detection using CNN for Machine Learning
+• Deep computer vision using CNN for Machine Learning
+• Introduction to images and convolutions for Machine Learning
+• CNN architecture for Machine Learning
+• Image classification using CNN for Machine Learning
+• Object detection using CNN for Machine Learning
+• Recurrent Neural Network
+Introduction to RNN
+Processing sequences using RNN
+Training RNN
+Forecasting time series using TensorFlow
+Naural language processing using RNN for Machine Learning
+• Introduction to RNN for Machine Learning
+• Processing sequences using RNN for Machine Learning
+• Training RNN for Machine Learning
+• Forecasting time series using TensorFlow for Machine Learning
+• Naural language processing using RNN for Machine Learning
+• Representation Learning and GANs
+Introduction to autoencoders
+Stacked autoencoders
+Introduction to GAN for Machine Learning
+• Introduction to autoencoders for Machine Learning
+• Stacked autoencoders for Machine Learning
+• Introduction to GAN for Machine Learning
+• Reinforcement Learning
+Introduction to reinforcement learning
+Introduction to OpenAI gym
+Q-learning
+Deep Q-Learning for Machine Learning
+• Introduction to reinforcement learning for Machine Learning
+• Introduction to OpenAI gym for Machine Learning
+• Q-learning for Machine Learning
+• Deep Q-Learning for Machine Learning
+• Deploying model on cloud (AWS)
+Saving models
+Serving TensorFlow model for Machine Learning
+• Saving models for Machine Learning
+• Serving TensorFlow model for Machine Learning
+
+--- Pre-requisites: for Machine Learning
+• Python fundamentals
+Collections
+Functions
+Classes
+Decorators
+Packages
+Numpy
+Pandas
+Matplotlib for Machine Learning
+• Collections for Machine Learning
+• Functions for Machine Learning
+• Classes for Machine Learning
+• Decorators for Machine Learning
+• Packages
+Numpy
+Pandas
+Matplotlib for Machine Learning
+• Numpy for Machine Learning
+• Pandas for Machine Learning
+• Matplotlib for Machine Learning
+• Statistics fundamentals for Machine Learning
+• Note: Training videos on important topics will be shared for your own practice for Machine Learning
+
+--- Outcome: for Machine Learning
+• You will be able to understand when, where and how to use ML for Machine Learning
+• You will be able to solve problems related to regression, classification, AI etc. for Machine Learning
+• You will be able to create models which can be used in desktop and mobile applications for Machine Learning
+
+--- Important Note: for Machine Learning
+• Course does not cover the following:
+Python Programming Syntax, even though entire ML programming will be done in Python. (Join prerequisite course : python-development)
+Statistics behind ML algorithms, however foundations of descriptive & inferential statistics are covered exclusively (Refer syllabus).
+Web technologies, however serving ML model in the web application is covered. for Machine Learning
+• Python Programming Syntax, even though entire ML programming will be done in Python. (Join prerequisite course : python-development) for Machine Learning
+• Statistics behind ML algorithms, however foundations of descriptive & inferential statistics are covered exclusively (Refer syllabus). for Machine Learning
+• Web technologies, however serving ML model in the web application is covered. for Machine Learning
+
+--- Software Setup: for Machine Learning
+• Python 3.x for Machine Learning
+• IDE: Pycharm for Machine Learning
+• Packages: numpy, pandas, scikit, pytorch, keras, flask for Machine Learning
+
+--- Student Feedback: for Machine Learning
+The excellent teaching style and excellent understanding of teaching topics. What I like the most about the course is how Amit Sir helps to improve visualization of code using proper diagrams and images. Also, proper sequencing of sample examples helps to revise the topic in the future. It’s good that sir gives more time on basic topics in the beginning so that the foundation is strong. Your knowledge and leadership provide us with a priceless model for our own careers. I am so happy you are part of my education. I learned to truly care about diversity and inclusion through your classes, and I hope now spread that message in a passionate but thoughtful way. You’re awesome!
+Amazing skill of teaching and a very well structured course for people to start to learn to machine learning. The assignments are very good for understanding the practical side of machine learning. To all those thinking of getting in ML, this is a must-have course. Kindly continue these online sessions post COVID-19 pandemic. It's really helpful for those who cannot come to the institute due to timing issues /working out of Pune etc. but willing to learn from you all.
+Thank You.
+Kudos to Sunbeam and Amit Sir again, for conducting Machine Learning with Python course in such a great manner. Amit Sir teaching as always is very precise and he goes out of this schedule to answer and cover, each and every doubt of the students and the topic in the syllabus. The course was also extended by a week, so as to cover all the topics in a meticulous manner.
+Thank you Amit Sir and Sunbeam once again :)
+
+--- Batch schedule for Machine Learning
+Columns for Machine Learning: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Machine Learning: ['1', 'ML-O-07', '26-Oct-2023', '28-Nov-2023', '07:30 AM  To  9:30 AM']
+Schedule : Weekdays - (Mon -Fri)
+==================================================
+# Mastering GenAI 
+ 
+--- Overview / Introduction about Mastering GenAI
+Course Name : Mastering GenAI
+Batch Schedule : 14-Jul-2025   To   03-Sep-2025
+To
+Schedule : Mon - Thu
+Duration : 60 Hrs
+Timings : 9:00 PM  To  11:00 PM
+To
+Fees : Rs. 17900/-
+
+--- Course Introduction for Mastering GenAI
+Join Amit Kulkarni, an industry expert and certified AI specialist, as he walks you through the Mastering GenAI course at Sunbeam Pune. This program is designed to help you understand, build, and innovate with AI-powered solutions.
+
+--- Syllabus: for Mastering GenAI
+• Overview of Statistics
+Definition and importance of statistics
+Types of statistics: descriptive and inferential
+Role of statistics in data science and machine learning
+Basic statistical terminology (population, sample, parameter, statistic) for Mastering GenAI
+• Definition and importance of statistics for Mastering GenAI
+• Types of statistics: descriptive and inferential for Mastering GenAI
+• Role of statistics in data science and machine learning for Mastering GenAI
+• Basic statistical terminology (population, sample, parameter, statistic) for Mastering GenAI
+• Sampling
+Sampling methods
+sampling distributions
+Central Limit Theorem for Mastering GenAI
+• Sampling methods for Mastering GenAI
+• sampling distributions for Mastering GenAI
+• Central Limit Theorem for Mastering GenAI
+• Descriptive Statistics
+Measures of central tendency (mean, median, mode)
+measures of variability (range, variance, standard deviation)
+skewness and kurtosis for Mastering GenAI
+• Measures of central tendency (mean, median, mode) for Mastering GenAI
+• measures of variability (range, variance, standard deviation) for Mastering GenAI
+• skewness and kurtosis for Mastering GenAI
+• Probability:
+Basic concepts of probability, conditional probability
+Bayes' theorem.
+Random variables and probability distributions for Mastering GenAI
+• Basic concepts of probability, conditional probability for Mastering GenAI
+• Bayes' theorem. for Mastering GenAI
+• Random variables and probability distributions for Mastering GenAI
+• Distributions:
+Normal distribution
+Binomial distribution
+Poisson distribution
+Uniform distribution for Mastering GenAI
+• Normal distribution for Mastering GenAI
+• Binomial distribution for Mastering GenAI
+• Poisson distribution for Mastering GenAI
+• Uniform distribution for Mastering GenAI
+• Hypothesis Testing:
+Null and alternative hypotheses
+Type I and Type II errors
+P-values
+Confidence intervals for Mastering GenAI
+• Null and alternative hypotheses for Mastering GenAI
+• Type I and Type II errors for Mastering GenAI
+• P-values for Mastering GenAI
+• Confidence intervals for Mastering GenAI
+• Correlation Analysis:
+Pearson correlation
+Spearman's rank correlation for Mastering GenAI
+• Pearson correlation for Mastering GenAI
+• Spearman's rank correlation for Mastering GenAI
+• Time Series Analysis:
+Trend analysis
+Seasonality
+Moving averages
+ARMA models
+ARIMA models for Mastering GenAI
+• Trend analysis for Mastering GenAI
+• Seasonality for Mastering GenAI
+• Moving averages for Mastering GenAI
+• ARMA models for Mastering GenAI
+• ARIMA models for Mastering GenAI
+• Data Visualization:
+Importance of data visualization
+Principles of effective data visualization
+Common visualization techniques:
+  Histograms
+  Box plots
+  Scatter plots
+  Heatmaps
+  Bar charts for Mastering GenAI
+• Importance of data visualization for Mastering GenAI
+• Principles of effective data visualization for Mastering GenAI
+• Common visualization techniques:
+  Histograms
+  Box plots
+  Scatter plots
+  Heatmaps
+  Bar charts for Mastering GenAI
+•   Histograms for Mastering GenAI
+•   Box plots for Mastering GenAI
+•   Scatter plots for Mastering GenAI
+•   Heatmaps for Mastering GenAI
+•   Bar charts for Mastering GenAI
+• Data Preprocessing
+Data cleaning and handling missing values
+Data transformation (normalization, standardization)
+Feature engineering and selection
+Encoding categorical variables
+Handling imbalanced datasets
+Data splitting (training, validation, test sets)
+Data augmentation techniques
+Outlier detection and handling for Mastering GenAI
+• Data cleaning and handling missing values for Mastering GenAI
+• Data transformation (normalization, standardization) for Mastering GenAI
+• Feature engineering and selection for Mastering GenAI
+• Encoding categorical variables for Mastering GenAI
+• Handling imbalanced datasets for Mastering GenAI
+• Data splitting (training, validation, test sets) for Mastering GenAI
+• Data augmentation techniques for Mastering GenAI
+• Outlier detection and handling for Mastering GenAI
+• Introduction to Machine Learning
+Overview of machine learning
+Types of machine learning:
+supervised learning
+unsupervised learning
+reinforcement learning
+semi-supervised learning
+Applications of machine learning
+Challenges and limitations of machine learning for Mastering GenAI
+• Overview of machine learning for Mastering GenAI
+• Types of machine learning:
+supervised learning
+unsupervised learning
+reinforcement learning
+semi-supervised learning for Mastering GenAI
+• supervised learning for Mastering GenAI
+• unsupervised learning for Mastering GenAI
+• reinforcement learning for Mastering GenAI
+• semi-supervised learning for Mastering GenAI
+• Applications of machine learning for Mastering GenAI
+• Challenges and limitations of machine learning for Mastering GenAI
+• Regression Analysis
+Overview of regression analysis
+Algorithms for regression:
+ Linear regression
+ Ridge regression
+ Lasso regression
+Assumptions of regression analysis
+Model evaluation metrics (R-squared, adjusted R-squared, RMSE, MAE)
+Model interpretation and communication of results
+Applications of regression analysis for Mastering GenAI
+• Overview of regression analysis for Mastering GenAI
+• Algorithms for regression:
+ Linear regression
+ Ridge regression
+ Lasso regression for Mastering GenAI
+•  Linear regression for Mastering GenAI
+•  Ridge regression for Mastering GenAI
+•  Lasso regression for Mastering GenAI
+• Assumptions of regression analysis for Mastering GenAI
+• Model evaluation metrics (R-squared, adjusted R-squared, RMSE, MAE) for Mastering GenAI
+• Model interpretation and communication of results for Mastering GenAI
+• Applications of regression analysis for Mastering GenAI
+• Classification
+Overview of classification
+Types of classification
+Evaluation metrics for classification (Confusion matrix, accuracy, precision, recall, F1-score, ROC-AUC)
+Algorithms for classification:
+Decision trees
+k-nearest neighbors (k-NN)
+Naive Bayes
+Ensemble methods (Bagging, Boosting, Stacking)
+Hyperparameter tuning and model selection
+Cross-validation techniques
+Applications of classification for Mastering GenAI
+• Overview of classification for Mastering GenAI
+• Types of classification for Mastering GenAI
+• Evaluation metrics for classification (Confusion matrix, accuracy, precision, recall, F1-score, ROC-AUC) for Mastering GenAI
+• Algorithms for classification:
+Decision trees
+k-nearest neighbors (k-NN)
+Naive Bayes for Mastering GenAI
+• Decision trees for Mastering GenAI
+• k-nearest neighbors (k-NN) for Mastering GenAI
+• Naive Bayes for Mastering GenAI
+• Ensemble methods (Bagging, Boosting, Stacking) for Mastering GenAI
+• Hyperparameter tuning and model selection for Mastering GenAI
+• Cross-validation techniques for Mastering GenAI
+• Applications of classification for Mastering GenAI
+• Clustering
+Overview of clustering
+Types of clustering:
+K-means clustering
+Hierarchical clustering
+Evaluation metrics for clustering (Silhouette score) for Mastering GenAI
+• Overview of clustering for Mastering GenAI
+• Types of clustering:
+K-means clustering
+Hierarchical clustering for Mastering GenAI
+• K-means clustering for Mastering GenAI
+• Hierarchical clustering for Mastering GenAI
+• Evaluation metrics for clustering (Silhouette score) for Mastering GenAI
+• Dimensionality Reduction
+Overview of dimensionality reduction
+Importance of dimensionality reduction
+Techniques for dimensionality reduction:
+ Principal Component Analysis (PCA) for Mastering GenAI
+• Overview of dimensionality reduction for Mastering GenAI
+• Importance of dimensionality reduction for Mastering GenAI
+• Techniques for dimensionality reduction:
+ Principal Component Analysis (PCA) for Mastering GenAI
+•  Principal Component Analysis (PCA) for Mastering GenAI
+• Introduction to Deep Learning
+Overview of deep learning
+Differences between traditional machine learning and deep learning
+Applications of deep learning in various domains
+Challenges and limitations of deep learning
+Overview of generative AI
+Applications of generative AI in various domains
+Challenges and limitations of generative AI for Mastering GenAI
+• Overview of deep learning for Mastering GenAI
+• Differences between traditional machine learning and deep learning for Mastering GenAI
+• Applications of deep learning in various domains for Mastering GenAI
+• Challenges and limitations of deep learning for Mastering GenAI
+• Overview of generative AI for Mastering GenAI
+• Applications of generative AI in various domains for Mastering GenAI
+• Challenges and limitations of generative AI for Mastering GenAI
+• Deep Learning Frameworks
+Overview of popular deep learning frameworks (TensorFlow, PyTorch, Keras)
+Overview of generative AI frameworks (Huggingface, Langchain)
+Setting up the environment for Mastering GenAI
+• Overview of popular deep learning frameworks (TensorFlow, PyTorch, Keras) for Mastering GenAI
+• Overview of generative AI frameworks (Huggingface, Langchain) for Mastering GenAI
+• Setting up the environment for Mastering GenAI
+• Artificial Neural Networks (ANNs)
+Feedforward neural networks
+what is a perceptron
+Multi-layer perceptrons (MLPs)
+Activation functions (ReLU, sigmoid, tanh)
+Loss functions (mean squared error, cross-entropy)
+Regression and classification using ANNs
+Model evaluation metrics (accuracy, precision, recall, F1-score)
+Model interpretability
+Applications of ANNs in real-world scenarios
+Hands-on: Build and train ANN model for regression and classification tasks for Mastering GenAI
+• Feedforward neural networks for Mastering GenAI
+• what is a perceptron for Mastering GenAI
+• Multi-layer perceptrons (MLPs) for Mastering GenAI
+• Activation functions (ReLU, sigmoid, tanh) for Mastering GenAI
+• Loss functions (mean squared error, cross-entropy) for Mastering GenAI
+• Regression and classification using ANNs for Mastering GenAI
+• Model evaluation metrics (accuracy, precision, recall, F1-score) for Mastering GenAI
+• Model interpretability for Mastering GenAI
+• Applications of ANNs in real-world scenarios for Mastering GenAI
+• Hands-on: Build and train ANN model for regression and classification tasks for Mastering GenAI
+• Convolutional Neural Networks (CNNs)
+Overview of CNNs and their architecture
+Convolutional layers and filters
+Pooling layers (max pooling, average pooling)
+Flattening and fully connected layers
+Applications of CNNs in image processing and computer vision
+Hands-on: Build and train a CNN for image classification for Mastering GenAI
+• Overview of CNNs and their architecture for Mastering GenAI
+• Convolutional layers and filters for Mastering GenAI
+• Pooling layers (max pooling, average pooling) for Mastering GenAI
+• Flattening and fully connected layers for Mastering GenAI
+• Applications of CNNs in image processing and computer vision for Mastering GenAI
+• Hands-on: Build and train a CNN for image classification for Mastering GenAI
+• Recurrent Neural Networks (RNNs)
+Overview of RNNs and their architecture
+ANN vs CNN vs RNN
+Long Short-Term Memory (LSTM) networks
+Gated Recurrent Units (GRUs)
+Applications of RNNs in natural language processing and time series analysis
+Hands-on: Build and train an RNN for text classification or time series prediction for Mastering GenAI
+• Overview of RNNs and their architecture for Mastering GenAI
+• ANN vs CNN vs RNN for Mastering GenAI
+• Long Short-Term Memory (LSTM) networks for Mastering GenAI
+• Gated Recurrent Units (GRUs) for Mastering GenAI
+• Applications of RNNs in natural language processing and time series analysis for Mastering GenAI
+• Hands-on: Build and train an RNN for text classification or time series prediction for Mastering GenAI
+• Generative Adversarial Networks (GANs)
+Overview of GANs and their architecture
+Generator and discriminator networks
+Training GANs and challenges
+Applications of GANs in image generation and data augmentation
+Variants of GANs (DCGAN, CycleGAN, StyleGAN)
+Hands-on: Build and train a GAN for image generation for Mastering GenAI
+• Overview of GANs and their architecture for Mastering GenAI
+• Generator and discriminator networks for Mastering GenAI
+• Training GANs and challenges for Mastering GenAI
+• Applications of GANs in image generation and data augmentation for Mastering GenAI
+• Variants of GANs (DCGAN, CycleGAN, StyleGAN) for Mastering GenAI
+• Hands-on: Build and train a GAN for image generation for Mastering GenAI
+• Transfer Learning
+Overview of transfer learning
+Fine-tuning pre-trained models
+Applications of transfer learning in various domains
+Hands-on: Fine-tune a pre-trained model for a specific task for Mastering GenAI
+• Overview of transfer learning for Mastering GenAI
+• Fine-tuning pre-trained models for Mastering GenAI
+• Applications of transfer learning in various domains for Mastering GenAI
+• Hands-on: Fine-tune a pre-trained model for a specific task for Mastering GenAI
+• Natural Language Processing (NLP)
+Overview of NLP and its applications
+Text preprocessing techniques (tokenization, stemming, lemmatization)
+Word embeddings (Word2Vec, GloVe, FastText)
+Sequence-to-sequence models
+Attention mechanisms in NLP
+Named Entity Recognition (NER)
+Sentiment analysis
+Fine-tuning pre-trained models for NLP tasks
+Hands-on: Build and train an NLP model for text classification or sentiment analysis for Mastering GenAI
+• Overview of NLP and its applications for Mastering GenAI
+• Text preprocessing techniques (tokenization, stemming, lemmatization) for Mastering GenAI
+• Word embeddings (Word2Vec, GloVe, FastText) for Mastering GenAI
+• Sequence-to-sequence models for Mastering GenAI
+• Attention mechanisms in NLP for Mastering GenAI
+• Named Entity Recognition (NER) for Mastering GenAI
+• Sentiment analysis for Mastering GenAI
+• Fine-tuning pre-trained models for NLP tasks for Mastering GenAI
+• Hands-on: Build and train an NLP model for text classification or sentiment analysis for Mastering GenAI
+• Large Language Models (LLMs)
+Overview of LLMs and their architecture
+Transformer architecture
+Attention mechanisms
+Pre-training and fine-tuning LLMs
+Applications of LLMs in natural language processing
+Hands-on: Fine-tune a pre-trained LLM for text generation or classification for Mastering GenAI
+• Overview of LLMs and their architecture for Mastering GenAI
+• Transformer architecture for Mastering GenAI
+• Attention mechanisms for Mastering GenAI
+• Pre-training and fine-tuning LLMs for Mastering GenAI
+• Applications of LLMs in natural language processing for Mastering GenAI
+• Hands-on: Fine-tune a pre-trained LLM for text generation or classification for Mastering GenAI
+• Retrieval-Augmented Generation (RAG)
+Overview of RAG
+How RAG works
+Applications of RAG in natural language processing
+Challenges and limitations of RAG
+Future directions of RAG
+Hands-on: Build a RAG model for a specific task (e.g., chat with PDF, chat with CSV, chat with text)
+Evaluation metrics for RAG models
+Hands-on: Evaluate the performance of a RAG model for Mastering GenAI
+• Overview of RAG for Mastering GenAI
+• How RAG works for Mastering GenAI
+• Applications of RAG in natural language processing for Mastering GenAI
+• Challenges and limitations of RAG for Mastering GenAI
+• Future directions of RAG for Mastering GenAI
+• Hands-on: Build a RAG model for a specific task (e.g., chat with PDF, chat with CSV, chat with text) for Mastering GenAI
+• Evaluation metrics for RAG models for Mastering GenAI
+• Hands-on: Evaluate the performance of a RAG model for Mastering GenAI
+• Agentic RAG
+Overview of agentic RAG
+How agentic RAG works
+Applications of agentic RAG in natural language processing
+Challenges and limitations of agentic RAG
+Future directions of agentic RAG
+Hands-on: Build an agentic RAG model for a specific task for Mastering GenAI
+• Overview of agentic RAG for Mastering GenAI
+• How agentic RAG works for Mastering GenAI
+• Applications of agentic RAG in natural language processing for Mastering GenAI
+• Challenges and limitations of agentic RAG for Mastering GenAI
+• Future directions of agentic RAG for Mastering GenAI
+• Hands-on: Build an agentic RAG model for a specific task for Mastering GenAI
+• Fine tuning LLMs
+Overview of fine-tuning LLMs
+How to fine-tune LLMs
+Applications of fine-tuning LLMs in natural language processing
+Challenges and limitations of fine-tuning LLMs
+Future directions of fine-tuning LLMs
+Hands-on: Fine-tune an LLM for a specific task
+  for Mastering GenAI
+• Overview of fine-tuning LLMs for Mastering GenAI
+• How to fine-tune LLMs for Mastering GenAI
+• Applications of fine-tuning LLMs in natural language processing for Mastering GenAI
+• Challenges and limitations of fine-tuning LLMs for Mastering GenAI
+• Future directions of fine-tuning LLMs for Mastering GenAI
+• Hands-on: Fine-tune an LLM for a specific task
+  for Mastering GenAI
+Mastering AI Basics
+Mastering-AI-Advance
+
+--- Prerequisites: for Mastering GenAI
+• Beginners with basic python knowledge for Mastering GenAI
+
+--- Student Feedback: for Mastering GenAI
+• Amit Kulkarni Sir is truly the best in this field. He explains the basics of technology, which is rare, and makes difficult concepts easy to understand. His syllabus is market-oriented, covering the latest trends.
+— Amruta Deole, Senior Software Developer
+  for Mastering GenAI
+• The hands-on projects, prompt engineering techniques, and deployment strategies were especially valuable. A great choice for both freshers and professionals aiming to upskill in Gen AI.
+— Rahul Kulkarni, Data Analyst & ML/DL Developer
+  for Mastering GenAI
+• Amit Sir answered thousands of questions with a smile. His passion for teaching and deep expertise inspired me. The sessions were technically sound and full of real-world insights.
+— Sanket Gawali, Solution Developer
+  for Mastering GenAI
+• The course provided a strong foundation, progressing seamlessly from basics to advanced topics like RAG and LLMs. The balance of theory and practice was perfect.
+— Shivani Bhinge, Associate Data Science Engineer
+  for Mastering GenAI
+• This was a zero-to-hero Generative AI course. I can now make an impact in my work using AI. Amit Sir’s humility and support even after the course are unparalleled.
+— Chaitanya Takalikar, Software Engineer for Mastering GenAI
+
+--- Batch schedule for Mastering GenAI
+Columns for Mastering GenAI: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Mastering GenAI: ['1', 'AI-O-002(Combo A+B)', '14-Jul-2025', '03-Sep-2025', '9:00 PM  To  11:00 PM']
+Row for Mastering GenAI: ['2', 'Mastering-AI-Basics-O-01(A)', '14-Jul-2025', '06-Aug-2025', '9:00 PM  To  11:00 PM']
+Row for Mastering GenAI: ['3', 'Mastering-AI-ADV-O-01(B)', '07-Aug-2025', '03-Sep-2025', '9:00 PM  To  11:00 PM']
+Schedule : Mon - Thu
+==================================================
+# Mastering MCQs 
+ 
+--- Overview / Introduction about Mastering MCQs
+Course Name : Mastering MCQs  
+Batch Schedule : 11-Dec-2025   To   08-Jan-2026
+To
+Schedule : Mon-Fri
+Duration : 1 Month
+Timings : 11:00 AM  To  12:30 PM
+To
+Fees : Rs. 3000/-
+
+--- Target Audience: for Mastering MCQs
+• Students for Mastering MCQs
+• Fresher's for Mastering MCQs
+
+--- Course Contents: for Mastering MCQs
+• Aptitude, Reasoning, English for Mastering MCQs
+• Computer Fundamentals & Concepts of Programming for Mastering MCQs
+• C Programming, C++ for Mastering MCQs
+• Data Structure, Operating Systems for Mastering MCQs
+• Data Communication Networking for Mastering MCQs
+• Big Data, Al for Mastering MCQs
+• Computer Architecture, Digital Electronics, and Microprocessors for Mastering MCQs
+
+--- Batch schedule for Mastering MCQs
+Columns for Mastering MCQs: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Mastering MCQs: ['1', 'Mastering MCQs-O-03 For C-CAT & MNC Interviews', '11-Dec-2025', '08-Jan-2026', '11:00 AM  To  12:30 PM']
+Schedule : Mon-Fri
+==================================================
+# MERN (FULL-STACK) DEVELOPMENT 
+ 
+--- Overview / Introduction about MERN (FULL-STACK) DEVELOPMENT
+Course Name : MERN (FULL-STACK) DEVELOPMENT
+Batch Schedule : 02-Jun-2025   To   03-Jul-2025
+To
+Schedule : Mon-Thu
+Duration : 40 hrs.
+Timings : 09:00 PM  To  11:00 PM
+To
+Fees : Rs. 9100/-
+
+--- Syllabus for MERN (FULL-STACK) DEVELOPMENT
+• Introduction
+what is node
+advantages and limitations for MERN (FULL-STACK) DEVELOPMENT
+• what is node for MERN (FULL-STACK) DEVELOPMENT
+• advantages and limitations for MERN (FULL-STACK) DEVELOPMENT
+• Environment setup
+install node
+create a new project
+configure project properties
+debugging node application for MERN (FULL-STACK) DEVELOPMENT
+• install node for MERN (FULL-STACK) DEVELOPMENT
+• create a new project for MERN (FULL-STACK) DEVELOPMENT
+• configure project properties for MERN (FULL-STACK) DEVELOPMENT
+• debugging node application for MERN (FULL-STACK) DEVELOPMENT
+• Basics
+introduction to npm
+introduction to package.json
+importing npm modules
+command line arguments
+node async vs sync
+threading model for MERN (FULL-STACK) DEVELOPMENT
+• introduction to npm for MERN (FULL-STACK) DEVELOPMENT
+• introduction to package.json for MERN (FULL-STACK) DEVELOPMENT
+• importing npm modules for MERN (FULL-STACK) DEVELOPMENT
+• command line arguments for MERN (FULL-STACK) DEVELOPMENT
+• node async vs sync for MERN (FULL-STACK) DEVELOPMENT
+• threading model for MERN (FULL-STACK) DEVELOPMENT
+• microservices
+introduction to microservices
+developing microservices using js
+configuration
+deployment for MERN (FULL-STACK) DEVELOPMENT
+• introduction to microservices for MERN (FULL-STACK) DEVELOPMENT
+• developing microservices using js for MERN (FULL-STACK) DEVELOPMENT
+• configuration for MERN (FULL-STACK) DEVELOPMENT
+• deployment for MERN (FULL-STACK) DEVELOPMENT
+• Http
+creating web server
+calling REST apis for MERN (FULL-STACK) DEVELOPMENT
+• creating web server for MERN (FULL-STACK) DEVELOPMENT
+• calling REST apis for MERN (FULL-STACK) DEVELOPMENT
+• Express
+introduction to express
+create new project
+express routes and router
+middleware
+connecting to database
+adding authentication for MERN (FULL-STACK) DEVELOPMENT
+• introduction to express for MERN (FULL-STACK) DEVELOPMENT
+• create new project for MERN (FULL-STACK) DEVELOPMENT
+• express routes and router for MERN (FULL-STACK) DEVELOPMENT
+• middleware for MERN (FULL-STACK) DEVELOPMENT
+• connecting to database for MERN (FULL-STACK) DEVELOPMENT
+• adding authentication for MERN (FULL-STACK) DEVELOPMENT
+• Node modules
+file system
+buffer
+express
+crypto-js
+multer
+mysql2
+postgres
+moment
+passport
+morgan for MERN (FULL-STACK) DEVELOPMENT
+• file system for MERN (FULL-STACK) DEVELOPMENT
+• buffer for MERN (FULL-STACK) DEVELOPMENT
+• express for MERN (FULL-STACK) DEVELOPMENT
+• crypto-js for MERN (FULL-STACK) DEVELOPMENT
+• multer for MERN (FULL-STACK) DEVELOPMENT
+• mysql2 for MERN (FULL-STACK) DEVELOPMENT
+• postgres for MERN (FULL-STACK) DEVELOPMENT
+• moment for MERN (FULL-STACK) DEVELOPMENT
+• passport for MERN (FULL-STACK) DEVELOPMENT
+• morgan for MERN (FULL-STACK) DEVELOPMENT
+• Setting up environment
+installing nodejs
+installing and configuring babel
+installing and configuring webpack for MERN (FULL-STACK) DEVELOPMENT
+• installing nodejs for MERN (FULL-STACK) DEVELOPMENT
+• installing and configuring babel for MERN (FULL-STACK) DEVELOPMENT
+• installing and configuring webpack for MERN (FULL-STACK) DEVELOPMENT
+• Introduction to SPA
+what is single page architecture?
+SPA architecture
+Pros and Cons
+other SPA frameworks for MERN (FULL-STACK) DEVELOPMENT
+• what is single page architecture? for MERN (FULL-STACK) DEVELOPMENT
+• SPA architecture for MERN (FULL-STACK) DEVELOPMENT
+• Pros and Cons for MERN (FULL-STACK) DEVELOPMENT
+• other SPA frameworks for MERN (FULL-STACK) DEVELOPMENT
+• React fundamentals
+introduction to components
+component oriented architecture
+what components ?
+environment setup for react and react native
+build workflow for MERN (FULL-STACK) DEVELOPMENT
+• introduction to components for MERN (FULL-STACK) DEVELOPMENT
+• component oriented architecture for MERN (FULL-STACK) DEVELOPMENT
+• what components ? for MERN (FULL-STACK) DEVELOPMENT
+• environment setup for react and react native for MERN (FULL-STACK) DEVELOPMENT
+• build workflow for MERN (FULL-STACK) DEVELOPMENT
+• React basics
+hello world react app
+creating functional component
+creating dynamic output
+component lifecycle
+debugging react application
+working with props
+styling react component for MERN (FULL-STACK) DEVELOPMENT
+• hello world react app for MERN (FULL-STACK) DEVELOPMENT
+• creating functional component for MERN (FULL-STACK) DEVELOPMENT
+• creating dynamic output for MERN (FULL-STACK) DEVELOPMENT
+• component lifecycle for MERN (FULL-STACK) DEVELOPMENT
+• debugging react application for MERN (FULL-STACK) DEVELOPMENT
+• working with props for MERN (FULL-STACK) DEVELOPMENT
+• styling react component for MERN (FULL-STACK) DEVELOPMENT
+• Introduction to state management
+rules of state management
+initializing state through constructors
+updating state properties
+app lifecycle
+handling errors for MERN (FULL-STACK) DEVELOPMENT
+• rules of state management for MERN (FULL-STACK) DEVELOPMENT
+• initializing state through constructors for MERN (FULL-STACK) DEVELOPMENT
+• updating state properties for MERN (FULL-STACK) DEVELOPMENT
+• app lifecycle for MERN (FULL-STACK) DEVELOPMENT
+• handling errors for MERN (FULL-STACK) DEVELOPMENT
+• Introduction to Redux
+why redux?
+pros and cons
+redux architecture
+actions
+store
+reducers for MERN (FULL-STACK) DEVELOPMENT
+• why redux? for MERN (FULL-STACK) DEVELOPMENT
+• pros and cons for MERN (FULL-STACK) DEVELOPMENT
+• redux architecture for MERN (FULL-STACK) DEVELOPMENT
+• actions for MERN (FULL-STACK) DEVELOPMENT
+• store for MERN (FULL-STACK) DEVELOPMENT
+• reducers for MERN (FULL-STACK) DEVELOPMENT
+• Advanced Redux concepts and integration
+connecting react to redux
+mapStateToProps
+mapDispatchToProps
+async in redux
+async status and error handling for MERN (FULL-STACK) DEVELOPMENT
+• connecting react to redux for MERN (FULL-STACK) DEVELOPMENT
+• mapStateToProps for MERN (FULL-STACK) DEVELOPMENT
+• mapDispatchToProps for MERN (FULL-STACK) DEVELOPMENT
+• async in redux for MERN (FULL-STACK) DEVELOPMENT
+• async status and error handling for MERN (FULL-STACK) DEVELOPMENT
+• Basic and advanced Routing
+introduction to routing
+root level routing
+child level routing for MERN (FULL-STACK) DEVELOPMENT
+• introduction to routing for MERN (FULL-STACK) DEVELOPMENT
+• root level routing for MERN (FULL-STACK) DEVELOPMENT
+• child level routing for MERN (FULL-STACK) DEVELOPMENT
+• React hooks
+what is hook?
+rules of hook
+using state hook
+using effect hook
+building custom hook for MERN (FULL-STACK) DEVELOPMENT
+• what is hook? for MERN (FULL-STACK) DEVELOPMENT
+• rules of hook for MERN (FULL-STACK) DEVELOPMENT
+• using state hook for MERN (FULL-STACK) DEVELOPMENT
+• using effect hook for MERN (FULL-STACK) DEVELOPMENT
+• building custom hook for MERN (FULL-STACK) DEVELOPMENT
+• Handling online payment
+connecting react with online payment gateway for MERN (FULL-STACK) DEVELOPMENT
+• connecting react with online payment gateway for MERN (FULL-STACK) DEVELOPMENT
+• Testing React components
+testing overview
+setting up environment
+testing react components
+  for MERN (FULL-STACK) DEVELOPMENT
+• testing overview for MERN (FULL-STACK) DEVELOPMENT
+• setting up environment for MERN (FULL-STACK) DEVELOPMENT
+• testing react components
+  for MERN (FULL-STACK) DEVELOPMENT
+NODE
+React
+
+--- Pre-requisites: for MERN (FULL-STACK) DEVELOPMENT
+• Object Oriented Programming Concepts for MERN (FULL-STACK) DEVELOPMENT
+• Any RDBMS (SQL) for MERN (FULL-STACK) DEVELOPMENT
+• Web Programming Fundamentals (HTML, CSS, JS) for MERN (FULL-STACK) DEVELOPMENT
+
+--- Batch schedule for MERN (FULL-STACK) DEVELOPMENT
+Columns for MERN (FULL-STACK) DEVELOPMENT: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for MERN (FULL-STACK) DEVELOPMENT: ['1', 'MERN-O-03', '02-Jun-2025', '03-Jul-2025', '09:00 PM  To  11:00 PM']
+Schedule : Mon-Thu
+==================================================
+# MLOps & LLMOps 
+ 
+--- Overview / Introduction about MLOps & LLMOps
+Course Name : MLOps & LLMOps
+Batch Schedule : 24-Nov-2025   To   05-Dec-2025
+To
+Schedule : Monday to Friday (9pm to 11pm)
+Duration : 2 weeks
+Timings : 9:00 PM  To  11:00 PM
+To
+Fees : Rs. 8000/- Special Offer for Sunbeam Alumni 5900
+
+--- Prerequisites: for MLOps & LLMOps
+• Python Libraries: numpy, pandas, matplotlib, sci-kit learn, pytorch for MLOps & LLMOps
+• SCM: git for MLOps & LLMOps
+• CI/CD Pipeline:
+Jenkins and GitHub Actions: scripted pipeline configuration for MLOps & LLMOps
+• Jenkins and GitHub Actions: scripted pipeline configuration for MLOps & LLMOps
+• Containerization:
+Docker: installation and configuration, building custom images, containers, volumes, networks, port forwarding for MLOps & LLMOps
+• Docker: installation and configuration, building custom images, containers, volumes, networks, port forwarding for MLOps & LLMOps
+• Container Orchestration:
+Kubernetes: cluster management, namespaces, pods, policies, services, configmap, secrets, networking, storage, autoscaling for MLOps & LLMOps
+• Kubernetes: cluster management, namespaces, pods, policies, services, configmap, secrets, networking, storage, autoscaling for MLOps & LLMOps
+• Cloud:
+AWS: EC2, ELB, Autoscaling, VPC, S3, Lambda, DevOps on AWS for MLOps & LLMOps
+• AWS: EC2, ELB, Autoscaling, VPC, S3, Lambda, DevOps on AWS for MLOps & LLMOps
+• Infrastructure as a code:
+Terraform: AWS infrastructure management for MLOps & LLMOps
+• Terraform: AWS infrastructure management for MLOps & LLMOps
+• Model building using scikit-learn and pytorch or tensorflow for MLOps & LLMOps
+
+--- Syllabus: for MLOps & LLMOps
+• Experiment Tracking: MLFlow, Weights and Biases for MLOps & LLMOps
+• Data and model versioning: dvc and LakeFS for MLOps & LLMOps
+• Containerization of models: Docker for MLOps & LLMOps
+• MLOps Pipeline: KubeFlow and MLFlow for MLOps & LLMOps
+• Model serving: KServe, Tensorflow Serving for MLOps & LLMOps
+• CI/CD for MLOps: Jenkins and GitHub Actions for MLOps & LLMOps
+• Observability: ELK for MLOps & LLMOps
+• Monitoring: Prometheus and Grafana for MLOps & LLMOps
+
+--- VIdeo recording will be available till 05 March 2026 on SunBeam Portal for MLOps & LLMOps
+
+--- Batch schedule for MLOps & LLMOps
+Columns for MLOps & LLMOps: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for MLOps & LLMOps: ['1', 'MLOps and LLMOps (O-01)', '24-Nov-2025', '05-Dec-2025', '9:00 PM  To  11:00 PM']
+Schedule : Monday to Friday (9pm to 11pm)
+==================================================
+# Python Development 
+ 
+--- Overview / Introduction about Python Development
+Course Name : Python Development
+Batch Schedule : 23-Jan-2026   To   20-Feb-2026
+To
+Schedule : Mon - Fri
+Duration : 50 hrs.
+Timings : 8:00 AM  To  10:30 AM
+To
+Fees : Rs. 8100/- 6800 Early Bird Offer
+
+--- Prerequisite: for Python Development
+• Any programming language for Python Development
+
+--- Highlights: for Python Development
+• Live hands-on approach for Python Development
+• Builds foundation for Machine Learning/Data science for Python Development
+
+--- Syllabus: for Python Development
+• Python Fundamentals and Environment Setup
+Introduction to Python
+Applications of Python in Machine Learning, Backend, Automation
+Installing Python on Windows, macOS, Linux
+Python interpreters and virtual environments
+Running Python programs
+Script mode vs interactive mode
+Basic coding standards and best practices for Python Development
+• Introduction to Python for Python Development
+• Applications of Python in Machine Learning, Backend, Automation for Python Development
+• Installing Python on Windows, macOS, Linux for Python Development
+• Python interpreters and virtual environments for Python Development
+• Running Python programs for Python Development
+• Script mode vs interactive mode for Python Development
+• Basic coding standards and best practices for Python Development
+• Core Python Syntax and Data Types
+Variables and naming conventions
+Built-in data types: int, float, complex, bool, string
+Type conversion and type checking
+Input and output operations
+Understanding Python memory basics for Python Development
+• Variables and naming conventions for Python Development
+• Built-in data types: int, float, complex, bool, string for Python Development
+• Type conversion and type checking for Python Development
+• Input and output operations for Python Development
+• Understanding Python memory basics for Python Development
+• Control Flow and Decision Making
+if, elif, else statements
+Nested conditions
+Logical and comparison operators
+Real-world decision-making examples
+Loops and Iterations
+for loop
+while loop
+range function
+break, continue, pass
+Nested loops
+Common looping patterns for Python Development
+• if, elif, else statements for Python Development
+• Nested conditions for Python Development
+• Logical and comparison operators for Python Development
+• Real-world decision-making examples for Python Development
+• Loops and Iterations for Python Development
+• for loop for Python Development
+• while loop for Python Development
+• range function for Python Development
+• break, continue, pass for Python Development
+• Nested loops for Python Development
+• Common looping patterns for Python Development
+• Python Data Structures
+Lists
+Creation, indexing, slicing
+List operations and methods
+List comprehensions
+Tuples
+Tuple creation
+Tuple vs list
+Use cases and immutability
+Sets
+Set creation
+Set operations
+Mathematical set concepts
+Dictionaries
+Key-value pairs
+CRUD operations
+Nested dictionaries
+Handling JSON-like data for Python Development
+• Lists
+Creation, indexing, slicing
+List operations and methods
+List comprehensions for Python Development
+• Creation, indexing, slicing for Python Development
+• List operations and methods for Python Development
+• List comprehensions for Python Development
+• Tuples
+Tuple creation
+Tuple vs list
+Use cases and immutability for Python Development
+• Tuple creation for Python Development
+• Tuple vs list for Python Development
+• Use cases and immutability for Python Development
+• Sets
+Set creation
+Set operations
+Mathematical set concepts for Python Development
+• Set creation for Python Development
+• Set operations for Python Development
+• Mathematical set concepts for Python Development
+• Dictionaries
+Key-value pairs
+CRUD operations
+Nested dictionaries
+Handling JSON-like data for Python Development
+• Key-value pairs for Python Development
+• CRUD operations for Python Development
+• Nested dictionaries for Python Development
+• Handling JSON-like data for Python Development
+• Strings and Text Processing
+String operations
+Common string methods
+String formatting using f-strings
+Text manipulation and cleaning basics for Python Development
+• String operations for Python Development
+• Common string methods for Python Development
+• String formatting using f-strings for Python Development
+• Text manipulation and cleaning basics for Python Development
+• Functions and Modular Programming
+Defining and calling functions
+Function arguments: positional, keyword, default
+args and kwargs
+Return values
+Scope: local and global
+Creating reusable modules for Python Development
+• Defining and calling functions for Python Development
+• Function arguments: positional, keyword, default for Python Development
+• args and kwargs for Python Development
+• Return values for Python Development
+• Scope: local and global for Python Development
+• Creating reusable modules for Python Development
+• Object-Oriented Programming in Python
+OOP concepts and importance
+Classes and objects
+Constructors
+Instance variables and class variables
+Methods
+Encapsulation
+Inheritance
+Polymorphism
+Introduction to magic methods
+Real-world OOP examples for Python Development
+• OOP concepts and importance for Python Development
+• Classes and objects for Python Development
+• Constructors for Python Development
+• Instance variables and class variables for Python Development
+• Methods for Python Development
+• Encapsulation for Python Development
+• Inheritance for Python Development
+• Polymorphism for Python Development
+• Introduction to magic methods for Python Development
+• Real-world OOP examples for Python Development
+• Error Handling and Debugging
+Types of errors in Python
+try, except, else, finally
+Creating custom exceptions
+Debugging techniques
+Writing robust code for Python Development
+• Types of errors in Python for Python Development
+• try, except, else, finally for Python Development
+• Creating custom exceptions for Python Development
+• Debugging techniques for Python Development
+• Writing robust code for Python Development
+• File Handling and Data Input Output
+Reading and writing text files
+Working with CSV files
+Working with JSON files
+File handling best practices
+Introduction to logging for Python Development
+• Reading and writing text files for Python Development
+• Working with CSV files for Python Development
+• Working with JSON files for Python Development
+• File handling best practices for Python Development
+• Introduction to logging for Python Development
+• Working with Dates, Time and Utilities
+Datetime module
+Time module
+Date formatting and parsing
+Timestamps and timers for Python Development
+• Datetime module for Python Development
+• Time module for Python Development
+• Date formatting and parsing for Python Development
+• Timestamps and timers for Python Development
+• Python Standard Library Overview
+os and sys modules
+math and random modules
+collections module
+itertools introduction
+Useful built-in functions for Python Development
+• os and sys modules for Python Development
+• math and random modules for Python Development
+• collections module for Python Development
+• itertools introduction for Python Development
+• Useful built-in functions for Python Development
+• Introduction to Data Handling for Machine Learning
+Importance of data in ML
+Introduction to NumPy: Arrays and vectorized operations
+Introduction to Pandas: DataFrames and Series
+Reading datasets
+Basic data exploration and cleaning for Python Development
+• Importance of data in ML for Python Development
+• Introduction to NumPy: Arrays and vectorized operations for Python Development
+• Introduction to Pandas: DataFrames and Series for Python Development
+• Reading datasets for Python Development
+• Basic data exploration and cleaning for Python Development
+• Python for Backend Development Foundations
+Role of Python in backend systems
+Basics of HTTP and REST APIs
+Introduction to Flask and FastAPI concepts
+Request and response lifecycle
+JSON handling in backend
+Basic database interaction concepts for Python Development
+• Role of Python in backend systems for Python Development
+• Basics of HTTP and REST APIs for Python Development
+• Introduction to Flask and FastAPI concepts for Python Development
+• Request and response lifecycle for Python Development
+• JSON handling in backend for Python Development
+• Basic database interaction concepts for Python Development
+• Database connectivity
+Introduction to MySQL and SQLite
+Database design basics (tables, rows, columns, keys)
+CRUD operations using SQL
+Connecting Python with databases
+Using Python database connectors
+Executing queries from Python
+Handling database transactions
+Error handling in database operations for Python Development
+• Introduction to MySQL and SQLite for Python Development
+• Database design basics (tables, rows, columns, keys) for Python Development
+• CRUD operations using SQL for Python Development
+• Connecting Python with databases for Python Development
+• Using Python database connectors for Python Development
+• Executing queries from Python for Python Development
+• Handling database transactions for Python Development
+• Error handling in database operations for Python Development
+• Mini Project
+Data-oriented mini project for ML foundation
+Backend-oriented mini project using Python logic
+Emphasis on clean code and problem-solving for Python Development
+• Data-oriented mini project for ML foundation for Python Development
+• Backend-oriented mini project using Python logic for Python Development
+• Emphasis on clean code and problem-solving for Python Development
+
+--- Student Feedback: for Python Development
+The course content was well-structured and covered all the essential topics needed to build a solid foundation in Python programming. What stood out the most for me was the clarity with which the  concepts were explained. Sir went above and beyond by covering additional topics that were incredibly valuable. I now feel much more confident in my Python skills, thanks to this course. 
+I can genuinely say it was one of the most enriching learning experiences I’ve had. I was referred by a colleague to join SUNBEAM, I wasn’t entirely sure what to expect initially, but from the very first session, it became clear that I was in the hands of an exceptional teacher. Sir has an extraordinary talent for simplifying even the most complex Python concepts, making them easy to grasp for all students. 
+His explanations are consistently clear, and he demonstrates remarkable patience, ensuring that every question is answered thoroughly and that no one is left behind. What truly stood out to me was his practical approach to teaching – beyond just theory, he provided real-world examples that made it easy to see how Python could be applied in my professional work. Sir's dedication to his students is truly admirable. 
+I now feel confident in my Python skills and am eager to apply what I’ve learned in my career. His teaching style, depth of knowledge, and unwavering support are truly exceptional, and I feel very fortunate to have had the opportunity to be taught by him.
+To be honest, Python was my first authentic experience of learning programming language and this
+experience was made memorable by you sir. Older me was saying programming is soo boring, soo complicated, an headache. But sir you totally changed my perspective. Now, I have gained confidence
+that I too can develop applications.
+You just have not only taught us python, You taught insights of python. how python works internally. I never ever trained like this before. You showed the way how to look at concepts insights just not syntax. Its Conceptual + Insights + syntactical Training I got. My words are not enough to express the gratitude but still to get teacher like you needs luck also.
+The quizzes at the end of each module were also a great way to test my knowledge. The Q&A sessions 15-20 mins before and after each lecture added more value to it. The example of  "Potter and Stencils" was amazing to understand the difference between "Java and Pythons class". Similarly the example of (2 or more) parallel projects while teaching the concept of working with "Virtual Environment" was amazing. 
+Request the sunbeam management to please start such courses for Ex-CDAC students which helps the CDAC family to grow and show what the CDAC pupils can do with CDAC gurus showing us the way ahead. It would be needless to praise our CDAC guru’s knowledge. Teaching methodologies as doing classes from US at 4:30 am PST time I always had a smile on my face a kid like zeal to learn what Sir would bring to the table that day and by end of min 2:30 hrs of a lecture he would leave us in awe. I would say CDAC sunbeam is not an institutional at all, it more of a Gurukul where the pupils are lifelong connected to the Gurus here at Sunbeam like Nilesh Sir,(for motivating when I was about to quit CDAC coming from ECE background), Prashant Sir, Vijay Sir, Sameer Sir(had a magical experience when he taught us in 2011 Feb) , Sarang Sir(never thought that Software engineering subject could be fun and also be taught)
+
+--- Recorded videos will be accessible for up to one month from the date of upload. for Python Development
+
+--- Batch schedule for Python Development
+Columns for Python Development: ['Sr.No', 'Batch Code', 'Start Date', 'End Date', 'Time']
+Row for Python Development: ['1', 'Python-O-15', '23-Jan-2026', '20-Feb-2026', '8:00 AM  To  10:30 AM']
+Schedule : Mon - Fri
